@@ -1,0 +1,1 @@
+export const URL_ENDPOINT = 'http://192.168.254.134:5000/api/v1';
